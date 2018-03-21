@@ -2,14 +2,18 @@ ack-grep
 angband
 apksigner
 apt
+autoconf
+automake
 babl
 bash
 binutils
+bison
 blogc
 boost
 brogue
 bs1770gain
 busybox
+bzip2
 c-ares
 ca-certificates
 cgdb
@@ -21,6 +25,7 @@ coreutils
 ctags
 dash
 dialog
+diffutils
 dirmngr
 dnsutils
 dpkg
@@ -31,6 +36,7 @@ ffmpeg-dev
 fftw
 figlet
 file
+flex
 fontconfig
 fontconfig-dev
 fontconfig-utils
@@ -133,6 +139,7 @@ libedit
 libevent
 libexpat
 libffi
+libffi-dev
 libflac
 libgc
 libgc-dev
@@ -197,6 +204,7 @@ libsoup
 libsoxr
 libsqlite
 libtiff
+libtool
 libunistring
 libunistring-dev
 libutil
@@ -212,6 +220,7 @@ libyaml
 lighttpd
 linux-man-pages
 littlecms
+m4
 macchanger
 make
 man
@@ -233,6 +242,7 @@ openssl
 optipng
 pango
 pango-dev
+patch
 pcre
 pcre-dev
 perl
@@ -246,17 +256,21 @@ postgresql-dev
 protobuf
 pwgen
 python
+python-dev
 python2
+python2-dev
 ragel
 ranger
 readline
 resolv-conf
 rgbds
 ruby
+sed
 silversearcher-ag
 sox
 stag
 syncthing
+tar
 termux-am
 termux-api
 termux-create-package
@@ -276,3 +290,5 @@ weechat-python-plugin
 weechat-ruby-plugin
 wget
 xvidcore
+xz-utils
+zip

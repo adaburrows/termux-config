@@ -14,9 +14,12 @@ Installing termux packages...
 if [ ! -e "$PREFIX/bin/virtualenv" ]; then
 	echo "
 
-Installing python packages with pip...
+Updating pip and installing python packages with...
 "
+	pip install --upgrade pip
+	pip2 install --upgrade pip
 	pip install -r pip_packages 
+	pip2 install mercurial
 fi
 
 if [ ! -e "$HOME/.npm/" ]; then
